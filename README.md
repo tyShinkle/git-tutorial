@@ -1,1 +1,1 @@
-# A git tutorial - 2023
+# Git Tutorial - 2023
